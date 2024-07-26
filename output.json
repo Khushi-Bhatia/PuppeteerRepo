@@ -1,0 +1,1591 @@
+{
+  "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+  "metaDescription": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
+  "metaKeywords": "yahoo, yahoo home page, yahoo homepage, yahoo search, yahoo mail, yahoo messenger, yahoo games, news, finance, sport, entertainment",
+  "images": [
+    {
+      "src": "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderStart&code=pageRender&bucket=rocket_GA_desk_test-3-v1%2Csend_heimdall_homepage_bucket%2Cseamless&device=desktop&intl=us&rid=7aoj9kpj9unbd&site=fp&t=1721720173489",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/4MkSUuyh6H25hInRIULYAQ--~B/Zmk9c3RyaW07aD0yNzI7cT05NTt3PTU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/cc51f5a0-4858-11ef-bfcb-32ba0c37e2a4.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/t0.c2WSc4VSQ_mzunzKHNA--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/15eae0e0-489b-11ef-a77f-fd0dcbe5c435.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/OBhi3Fxs7mgr6kgqIXQ52A--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/091bef30-48b9-11ef-b3fd-72a717e2cda6.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/ogEhPg1hNdgcbrNbi5KPVA--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/547b3010-488e-11ef-befe-16b51e5b14ba.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/UizYYk7HfVXA6CwpVKWvbg--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/5d13d240-4848-11ef-9cfd-c72f33f5ade1.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/_fuKICgR..JRZjsLXstH9Q--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/9b613820-4853-11ef-bee5-60e743af778f.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/MX1ytHqjnmAbDmS_dbiDlw--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/89c0689d9f2f17616928a81f260d58d8.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/JPlm.rTYOJg_HZZnJPOh9g--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbc_news_122/e487e8ddf714683b39e911e07f25333e.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/gPAAsXOfWvcrw.BhWt9Z8w--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/58d3de9bfcdaa01ba449f0f41cf09e07.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/IHpsGjTV.Qu5o7tsk_ixRw--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbc_news_122/44c222186b0bc070b8bfd48972db5ba4.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/o_I1tuwIJbb8lRcxLoePAA--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/cf9ea750ab7f572c68d8fb1dd0efed80.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/lS8VM7Ovro8ZthkZC.OBRQ--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_258/e27929a8cdfb20292e98ec2efbdaf1d1.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/hzj2eR3M8NHz3zcsKvHTqg--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Benzinga/01a0c6830a8614b25877612d7e7aee6e.cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderEnd&code=pageRender&bucket=rocket_GA_desk_test-3-v1%2Csend_heimdall_homepage_bucket%2Cseamless&device=desktop&intl=us&rid=7aoj9kpj9unbd&site=fp&t=1721720173493",
+      "alt": ""
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "href": "https://www.yahoo.com/news/",
+      "text": "Today's news"
+    },
+    {
+      "href": "https://www.yahoo.com/news/us/",
+      "text": "US"
+    },
+    {
+      "href": "https://www.yahoo.com/news/politics/",
+      "text": "Politics"
+    },
+    {
+      "href": "https://www.yahoo.com/news/world/",
+      "text": "World"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/",
+      "text": "Tech"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/reviews-deals/",
+      "text": "Reviews and deals"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/audio/",
+      "text": "Audio"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/computing/",
+      "text": "Computing"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/gaming/",
+      "text": "Gaming"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/health/",
+      "text": "Health"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/home/",
+      "text": "Home"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/phones/",
+      "text": "Phones"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/science/",
+      "text": "Science"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/tvs/",
+      "text": "TVs"
+    },
+    {
+      "href": "https://www.yahoo.com/tagged/climate-change/",
+      "text": "Climate change"
+    },
+    {
+      "href": "https://www.yahoo.com/news/health/",
+      "text": "Health"
+    },
+    {
+      "href": "https://www.yahoo.com/news/science/",
+      "text": "Science"
+    },
+    {
+      "href": "https://www.yahoo.com/elections/",
+      "text": "2024 election"
+    },
+    {
+      "href": "https://news.yahoo.com/originals/",
+      "text": "Originals"
+    },
+    {
+      "href": "https://www.yahoo.com/news/tagged/360/",
+      "text": "The 360"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/",
+      "text": "Life"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/health/",
+      "text": "Health"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/covid/",
+      "text": "COVID-19"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/fall-allergies/",
+      "text": "Fall allergies"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/do-i-need-to-worry/",
+      "text": "Health news"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/mental-health/",
+      "text": "Mental health"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/relax/",
+      "text": "Relax"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/sexual-health/",
+      "text": "Sexual health"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/study/",
+      "text": "Studies"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/the-unwind/",
+      "text": "The Unwind"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/parenting/",
+      "text": "Parenting"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/family-health/",
+      "text": "Family health"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/so-mini-ways/",
+      "text": "So mini ways"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/style-beauty/",
+      "text": "Style and beauty"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/it-figures/",
+      "text": "It Figures"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/unapologetically/",
+      "text": "Unapologetically"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/horoscope/",
+      "text": "Horoscopes"
+    },
+    {
+      "href": "https://shopping.yahoo.com/",
+      "text": "Shopping"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/best-of/",
+      "text": "Buying guides"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/live/the-best-amazon-prime-day-deals-are-here-a-day-early--save-up-to-70-on-40-prime-day-deals-165210138.html",
+      "text": "Prime Day"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/food/",
+      "text": "Food"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/travel/",
+      "text": "Travel"
+    },
+    {
+      "href": "https://autos.yahoo.com/",
+      "text": "Autos"
+    },
+    {
+      "href": "https://www.yahoo.com/topics/gift-ideas/",
+      "text": "Gift ideas"
+    },
+    {
+      "href": "https://www.yahoo.com/topics/buying-guides/",
+      "text": "Buying guides"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/",
+      "text": "Entertainment"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/celebrity/",
+      "text": "Celebrity"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tv/",
+      "text": "TV"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/movies/",
+      "text": "Movies"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/music/",
+      "text": "Music"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/how-to-watch/",
+      "text": "How to Watch"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/interviews/",
+      "text": "Interviews"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/videos/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/shopping/",
+      "text": "Shopping"
+    },
+    {
+      "href": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "href": "https://finance.yahoo.com/portfolios/",
+      "text": "My portfolio"
+    },
+    {
+      "href": "https://finance.yahoo.com/portfolio/p_1/view/v1",
+      "text": "My watchlist"
+    },
+    {
+      "href": "https://finance.yahoo.com/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/stock-market-news/",
+      "text": "Stock market"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/economic-news/",
+      "text": "Economics"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/earnings/",
+      "text": "Earnings"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "href": "https://finance.yahoo.com/live/politics/",
+      "text": "Politics"
+    },
+    {
+      "href": "https://finance.yahoo.com/bidenomics/",
+      "text": "Biden economy"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/personal-finance-news/",
+      "text": "Personal finance"
+    },
+    {
+      "href": "https://finance.yahoo.com/calendar/",
+      "text": "Markets"
+    },
+    {
+      "href": "https://finance.yahoo.com/most-active/",
+      "text": "Stocks: most active"
+    },
+    {
+      "href": "https://finance.yahoo.com/gainers/",
+      "text": "Stocks: gainers"
+    },
+    {
+      "href": "https://finance.yahoo.com/losers/",
+      "text": "Stocks: losers"
+    },
+    {
+      "href": "https://finance.yahoo.com/trending-tickers/",
+      "text": "Trending tickers"
+    },
+    {
+      "href": "https://finance.yahoo.com/commodities/",
+      "text": "Futures"
+    },
+    {
+      "href": "https://finance.yahoo.com/world-indices/",
+      "text": "World indices"
+    },
+    {
+      "href": "https://finance.yahoo.com/bonds/",
+      "text": "US Treasury bonds"
+    },
+    {
+      "href": "https://finance.yahoo.com/currencies/",
+      "text": "Currencies"
+    },
+    {
+      "href": "https://finance.yahoo.com/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "href": "https://finance.yahoo.com/etfs/",
+      "text": "Top ETFs"
+    },
+    {
+      "href": "https://finance.yahoo.com/mutualfunds",
+      "text": "Top mutual funds"
+    },
+    {
+      "href": "https://finance.yahoo.com/options/highest-open-interest/",
+      "text": "Highest open interest"
+    },
+    {
+      "href": "https://finance.yahoo.com/options/highest-implied-volatility/",
+      "text": "Highest implied volatility"
+    },
+    {
+      "href": "https://finance.yahoo.com/currency-converter/",
+      "text": "Currency converter"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/",
+      "text": "Sectors"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/basic-materials/",
+      "text": "Basic materials"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/communication-services/",
+      "text": "Communication services"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/consumer-cyclical/",
+      "text": "Consumer cyclical"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/consumer-defensive/",
+      "text": "Consumer defensive"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/energy/",
+      "text": "Energy"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/financial-services/",
+      "text": "Financial services"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/healthcare/",
+      "text": "Healthcare"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/industrials/",
+      "text": "Industrials"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/real-estate/",
+      "text": "Real estate"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/technology/",
+      "text": "Technology"
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/utilities/",
+      "text": "Utilities"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/",
+      "text": "Screeners"
+    },
+    {
+      "href": "https://finance.yahoo.com/watchlists/",
+      "text": "Watchlists"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/new/",
+      "text": "Equities"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/etf/new/",
+      "text": "ETFs"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/future/new/",
+      "text": "Futures"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/index/new/",
+      "text": "Index"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/mutualfund/new/",
+      "text": "Mutual funds"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/analyst_ratings/new?ncid=dcm_320339942_490172245_127172993",
+      "text": "Analyst rating screener"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/tradingcentral_event/new?ncid=dcm_320544712_490172245_127172993",
+      "text": "Technical events screener"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/institutional_interest/new?ncid=dcm_320344326_490172245_127172993",
+      "text": "Smart money screener"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/institutional_holdings/new?ncid=dcm_320545006_490172245_127172993",
+      "text": "Top holdings screener"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/personal-finance/",
+      "text": "Personal finance"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/credit-cards/",
+      "text": "Credit cards"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/best-credit-card-for-balance-transfer-213356438.html",
+      "text": "Balance transfer cards"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/best-cash-back-credit-cards-220845639.html",
+      "text": "Cash back cards"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/best-rewards-credit-card-203736692.html",
+      "text": "Rewards cards"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/best-travel-credit-card-203950032.html",
+      "text": "Travel cards"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/banking/",
+      "text": "Banking"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/find-best-cd-rates-165749654.html",
+      "text": "CD rates"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/best-online-checking-account-180614848.html",
+      "text": "Online checking"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/best-high-yield-savings-account-rates-203648059.html",
+      "text": "High-yield savings"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/high-yield-money-market-accounts-170614474.html",
+      "text": "Money market"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/mortgages/",
+      "text": "Mortgage"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/home-equity-loan-180802527.html",
+      "text": "Home equity loan"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/home-equity-line-of-credit-heloc-201539345.html",
+      "text": "HELOC"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/personal-loans/",
+      "text": "Personal loans"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/student-loans/",
+      "text": "Student loans"
+    },
+    {
+      "href": "https://finance.yahoo.com/personal-finance/insurance/",
+      "text": "Insurance"
+    },
+    {
+      "href": "https://finance.yahoo.com/taxes/",
+      "text": "Taxes"
+    },
+    {
+      "href": "https://finance.yahoo.com/videos/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/etf-report/",
+      "text": "ETF report"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/fa-corner/",
+      "text": "FA corner"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/options-pit/",
+      "text": "Options pit"
+    },
+    {
+      "href": "https://finance.yahoo.com/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/predefined/ms_basic_materials/",
+      "text": "Industries"
+    },
+    {
+      "href": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "href": "https://sports.yahoo.com/fantasy/",
+      "text": "Fantasy"
+    },
+    {
+      "href": "https://sports.yahoo.com/fantasy/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://football.fantasysports.yahoo.com/",
+      "text": "Fantasy football"
+    },
+    {
+      "href": "https://bestball.fantasysports.yahoo.com/",
+      "text": "Best Ball"
+    },
+    {
+      "href": "https://football.fantasysports.yahoo.com/pickem",
+      "text": "Pro Pick 'Em"
+    },
+    {
+      "href": "https://football.fantasysports.yahoo.com/college",
+      "text": "College Pick 'Em"
+    },
+    {
+      "href": "https://baseball.fantasysports.yahoo.com/",
+      "text": "Fantasy baseball"
+    },
+    {
+      "href": "https://hockey.fantasysports.yahoo.com/",
+      "text": "Fantasy hockey"
+    },
+    {
+      "href": "https://basketball.fantasysports.yahoo.com/",
+      "text": "Fantasy basketball"
+    },
+    {
+      "href": "https://sports.yahoo.com/fantasy/mobile/",
+      "text": "Download the app"
+    },
+    {
+      "href": "https://sports.yahoo.com/dailyfantasy/",
+      "text": "Daily fantasy"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/",
+      "text": "NFL"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/standings/",
+      "text": "Standings"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/stats/",
+      "text": "Stats"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/teams/",
+      "text": "Teams"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/players/",
+      "text": "Players"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/draft/",
+      "text": "Drafts"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/injuries/",
+      "text": "Injuries"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/odds/",
+      "text": "Odds"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/topic/super-bowl/",
+      "text": "Super Bowl"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/gamechannel/",
+      "text": "GameChannel"
+    },
+    {
+      "href": "https://sports.yahoo.com/videos/nfl/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/",
+      "text": "MLB"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/standings/",
+      "text": "Standings"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/stats/",
+      "text": "Stats"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/teams/",
+      "text": "Teams"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/players/",
+      "text": "Players"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/odds/",
+      "text": "Odds"
+    },
+    {
+      "href": "https://sports.yahoo.com/videos/mlb/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/world-baseball-classic/",
+      "text": "World Baseball Classic"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/",
+      "text": "NBA"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/draft/",
+      "text": "Draft"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/standings/",
+      "text": "Standings"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/stats/",
+      "text": "Stats"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/teams/",
+      "text": "Teams"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/players/",
+      "text": "Players"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/injuries/",
+      "text": "Injuries"
+    },
+    {
+      "href": "https://sports.yahoo.com/videos/nba/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/odds/",
+      "text": "Odds"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/playoffs/",
+      "text": "Playoffs"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/",
+      "text": "NHL"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/standings/",
+      "text": "Standings"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/stats/",
+      "text": "Stats"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/teams/",
+      "text": "Teams"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/players/",
+      "text": "Players"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/odds/",
+      "text": "Odds"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/stanley-cup-playoffs/",
+      "text": "Playoffs"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/",
+      "text": "Soccer"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/premier-league/",
+      "text": "Premier League"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/mls/",
+      "text": "MLS"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/nwsl/",
+      "text": "NWSL"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/ligamx-clausura/",
+      "text": "Liga MX"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/concacaf-league/",
+      "text": "CONCACAF League"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/champions-league/",
+      "text": "Champions League"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/la-liga/",
+      "text": "La Liga"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/serie-a/",
+      "text": "Serie A"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/bundesliga/",
+      "text": "Bundesliga"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/ligue-1/",
+      "text": "Ligue 1"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/world-cup/",
+      "text": "World Cup"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/",
+      "text": "College football"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/scoreboard/",
+      "text": "Scores and schedules"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/standings/",
+      "text": "Standings"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/rankings/",
+      "text": "Rankings"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/stats/",
+      "text": "Stats"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/teams/",
+      "text": "Teams"
+    },
+    {
+      "href": "https://www.yahoo.com/",
+      "text": "Show all"
+    },
+    {
+      "href": "https://sports.yahoo.com/mma/",
+      "text": "MMA"
+    },
+    {
+      "href": "https://sports.yahoo.com/wnba/",
+      "text": "WNBA"
+    },
+    {
+      "href": "https://sports.yahoo.com/sportsbook/",
+      "text": "Sportsbook"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/",
+      "text": "NCAAF"
+    },
+    {
+      "href": "https://sports.yahoo.com/tennis/",
+      "text": "Tennis"
+    },
+    {
+      "href": "https://sports.yahoo.com/golf/",
+      "text": "Golf"
+    },
+    {
+      "href": "https://sports.yahoo.com/motorsports/nascar/",
+      "text": "NASCAR"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-basketball/",
+      "text": "NCAAB"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-womens-basketball/",
+      "text": "NCAAW"
+    },
+    {
+      "href": "https://sports.yahoo.com/boxing/",
+      "text": "Boxing"
+    },
+    {
+      "href": "https://sports.yahoo.com/usfl/",
+      "text": "USFL"
+    },
+    {
+      "href": "https://sports.yahoo.com/cycling/",
+      "text": "Cycling"
+    },
+    {
+      "href": "https://sports.yahoo.com/motorsports/",
+      "text": "Motorsports"
+    },
+    {
+      "href": "https://sports.yahoo.com/olympics/beijing-2022/",
+      "text": "Olympics"
+    },
+    {
+      "href": "https://sports.yahoo.com/horse-racing/",
+      "text": "Horse racing"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/gamechannel/",
+      "text": "GameChannel"
+    },
+    {
+      "href": "https://n.rivals.com/",
+      "text": "Rivals"
+    },
+    {
+      "href": "https://sports.yahoo.com/newsletters/",
+      "text": "Newsletters"
+    },
+    {
+      "href": "https://sports.yahoo.com/podcasts/",
+      "text": "Podcasts"
+    },
+    {
+      "href": "https://sports.yahoo.com/videos/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://sports.yahoo.com/syndication/",
+      "text": "RSS"
+    },
+    {
+      "href": "https://sports.yahoo.com/jobs/",
+      "text": "Jobs"
+    },
+    {
+      "href": "https://help.yahoo.com/kb/sports-news",
+      "text": "Help"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/world-cup/",
+      "text": "World Cup"
+    },
+    {
+      "href": "https://sports.yahoo.com/news/",
+      "text": "More news"
+    },
+    {
+      "href": "https://www.yahoo.com/games/",
+      "text": "Games"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/",
+      "text": "Tech"
+    },
+    {
+      "href": "https://guce.yahoo.com/terms?locale=en-US",
+      "text": "Terms"
+    },
+    {
+      "href": "https://guce.yahoo.com/privacy-policy?locale=en-US",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://guce.yahoo.com/privacy-dashboard?locale=en-US",
+      "text": "Privacy Dashboard"
+    },
+    {
+      "href": "https://yahoo.uservoice.com/forums/925969?browser=chrome&bucket=rocket_GA_desk_test-3-v1%2Csend_heimdall_homepage_bucket&location=US&os=windows+nt&partner=none&rid=7aoj9kpj9unbd",
+      "text": "Feedback"
+    },
+    {
+      "href": "https://www.yahoo.com/?p=dnr",
+      "text": "USEnglish"
+    },
+    {
+      "href": "https://espanol.yahoo.com/?p=dnr",
+      "text": "US y LATAMEspañol"
+    },
+    {
+      "href": "https://au.yahoo.com/?p=dnr",
+      "text": "AustraliaEnglish"
+    },
+    {
+      "href": "https://ca.yahoo.com/?p=dnr",
+      "text": "CanadaEnglish"
+    },
+    {
+      "href": "https://qc.yahoo.com/?p=dnr",
+      "text": "CanadaFrançais"
+    },
+    {
+      "href": "https://de.yahoo.com/?p=dnr",
+      "text": "DeutschlandDeutsch"
+    },
+    {
+      "href": "https://fr.yahoo.com/?p=dnr",
+      "text": "FranceFrançais"
+    },
+    {
+      "href": "https://hk.yahoo.com/?p=dnr",
+      "text": "香港繁中"
+    },
+    {
+      "href": "https://malaysia.yahoo.com/?p=dnr",
+      "text": "MalaysiaEnglish"
+    },
+    {
+      "href": "https://nz.yahoo.com/?p=dnr",
+      "text": "New ZealandEnglish"
+    },
+    {
+      "href": "https://sg.yahoo.com/?p=dnr",
+      "text": "SingaporeEnglish"
+    },
+    {
+      "href": "https://tw.yahoo.com/?p=dnr",
+      "text": "台灣繁中"
+    },
+    {
+      "href": "https://uk.yahoo.com/?p=dnr",
+      "text": "UKEnglish"
+    },
+    {
+      "href": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html",
+      "text": "About our ads"
+    },
+    {
+      "href": "https://www.adtech.yahooinc.com/advertising/solutions",
+      "text": "Advertising"
+    },
+    {
+      "href": "https://www.yahooinc.com/careers/",
+      "text": "Careers"
+    },
+    {
+      "href": "https://www.yahoo.com/",
+      "text": "Yahoo Home"
+    },
+    {
+      "href": "https://www.yahoo.com/?p=dnr",
+      "text": "USEnglish"
+    },
+    {
+      "href": "https://espanol.yahoo.com/?p=dnr",
+      "text": "US y LATAMEspañol"
+    },
+    {
+      "href": "https://au.yahoo.com/?p=dnr",
+      "text": "AustraliaEnglish"
+    },
+    {
+      "href": "https://ca.yahoo.com/?p=dnr",
+      "text": "CanadaEnglish"
+    },
+    {
+      "href": "https://qc.yahoo.com/?p=dnr",
+      "text": "CanadaFrançais"
+    },
+    {
+      "href": "https://de.yahoo.com/?p=dnr",
+      "text": "DeutschlandDeutsch"
+    },
+    {
+      "href": "https://fr.yahoo.com/?p=dnr",
+      "text": "FranceFrançais"
+    },
+    {
+      "href": "https://hk.yahoo.com/?p=dnr",
+      "text": "香港繁中"
+    },
+    {
+      "href": "https://malaysia.yahoo.com/?p=dnr",
+      "text": "MalaysiaEnglish"
+    },
+    {
+      "href": "https://nz.yahoo.com/?p=dnr",
+      "text": "New ZealandEnglish"
+    },
+    {
+      "href": "https://sg.yahoo.com/?p=dnr",
+      "text": "SingaporeEnglish"
+    },
+    {
+      "href": "https://tw.yahoo.com/?p=dnr",
+      "text": "台灣繁中"
+    },
+    {
+      "href": "https://uk.yahoo.com/?p=dnr",
+      "text": "UKEnglish"
+    },
+    {
+      "href": "https://www.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "href": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "href": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "href": "https://www.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "href": "https://www.yahoo.com/news/",
+      "text": "Today's news"
+    },
+    {
+      "href": "https://www.yahoo.com/news/us/",
+      "text": "US"
+    },
+    {
+      "href": "https://www.yahoo.com/news/politics/",
+      "text": "Politics"
+    },
+    {
+      "href": "https://www.yahoo.com/news/world/",
+      "text": "World"
+    },
+    {
+      "href": "https://www.yahoo.com/news/weather/",
+      "text": "Weather"
+    },
+    {
+      "href": "https://yahoo.com/tagged/climate-change/",
+      "text": "Climate change"
+    },
+    {
+      "href": "https://www.yahoo.com/news/health/",
+      "text": "Health"
+    },
+    {
+      "href": "https://www.yahoo.com/news/science/",
+      "text": "Science"
+    },
+    {
+      "href": "https://www.yahoo.com/election/",
+      "text": "2024 election"
+    },
+    {
+      "href": "https://www.yahoo.com/news/originals/",
+      "text": "Originals"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/",
+      "text": "Life"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/health/",
+      "text": "Health"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/parenting/",
+      "text": "Parenting"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/style-beauty/",
+      "text": "Style and beauty"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/horoscope/",
+      "text": "Horoscopes"
+    },
+    {
+      "href": "https://shopping.yahoo.com/",
+      "text": "Shopping"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/live/the-best-amazon-prime-day-deals-are-here-a-day-early--save-up-to-70-on-40-prime-day-deals-165210138.html",
+      "text": "Prime Day"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/travel/",
+      "text": "Travel"
+    },
+    {
+      "href": "https://autos.yahoo.com/",
+      "text": "Autos"
+    },
+    {
+      "href": "https://www.yahoo.com/topics/gift-ideas/",
+      "text": "Gift ideas"
+    },
+    {
+      "href": "https://www.yahoo.com/topics/buying-guides/",
+      "text": "Buying guides"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/",
+      "text": "Entertainment"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/celebrity/",
+      "text": "Celebrity"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tv/",
+      "text": "TV"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/movies/",
+      "text": "Movies"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/music/",
+      "text": "Music"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/how-to-watch/",
+      "text": "How to watch"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/interviews/",
+      "text": "Interviews"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/videos/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/shopping/",
+      "text": "Shopping"
+    },
+    {
+      "href": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "href": "https://finance.yahoo.com/portfolios/",
+      "text": "My portfolio"
+    },
+    {
+      "href": "https://finance.yahoo.com/watchlists/",
+      "text": "Watchlists"
+    },
+    {
+      "href": "https://finance.yahoo.com/calendar/",
+      "text": "Markets"
+    },
+    {
+      "href": "https://finance.yahoo.com/news/",
+      "text": "News"
+    },
+    {
+      "href": "https://finance.yahoo.com/videos/",
+      "text": "Videos"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/",
+      "text": "Screeners"
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/personal-finance/",
+      "text": "Personal finance"
+    },
+    {
+      "href": "https://finance.yahoo.com/crypto/",
+      "text": "Crypto"
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/predefined/ms_basic_materials/",
+      "text": "Industries"
+    },
+    {
+      "href": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "href": "https://sports.yahoo.com/fantasy/",
+      "text": "Fantasy"
+    },
+    {
+      "href": "https://sports.yahoo.com/nfl/",
+      "text": "NFL"
+    },
+    {
+      "href": "https://sports.yahoo.com/nba/",
+      "text": "NBA"
+    },
+    {
+      "href": "https://sports.yahoo.com/mlb/",
+      "text": "MLB"
+    },
+    {
+      "href": "https://sports.yahoo.com/nhl/",
+      "text": "NHL"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-football/",
+      "text": "College football"
+    },
+    {
+      "href": "https://sports.yahoo.com/college-basketball/",
+      "text": "College basketball"
+    },
+    {
+      "href": "https://sports.yahoo.com/soccer/",
+      "text": "Soccer"
+    },
+    {
+      "href": "https://sports.yahoo.com/mma/",
+      "text": "MMA"
+    },
+    {
+      "href": "https://sports.yahoo.com/newsletters/yahoo-sports-am/",
+      "text": "Yahoo Sports AM"
+    },
+    {
+      "href": "https://www.yahoo.com/games/",
+      "text": "Games"
+    },
+    {
+      "href": "https://www.yahoo.com/tech/",
+      "text": "Tech"
+    },
+    {
+      "href": "https://www.yahoo.com/everything/world/",
+      "text": "Selected edition"
+    },
+    {
+      "href": "https://mail.yahoo.com/",
+      "text": "Mail"
+    },
+    {
+      "href": "https://login.yahoo.com/?.lang=en-US&src=homepage&.done=https%3A%2F%2Fwww.yahoo.com%2F&pspid=2023538075&activity=ybar-signin",
+      "text": "Sign in"
+    },
+    {
+      "href": "https://mail.yahoo.com/",
+      "text": "Mail"
+    },
+    {
+      "href": "https://news.yahoo.com/",
+      "text": "News"
+    },
+    {
+      "href": "https://finance.yahoo.com/",
+      "text": "Finance"
+    },
+    {
+      "href": "https://sports.yahoo.com/",
+      "text": "Sports"
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/",
+      "text": "Entertainment"
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/",
+      "text": "Life"
+    },
+    {
+      "href": "https://www.yahoo.com/plus?ncid=mbr_ryhacqnav00000038",
+      "text": "Yahoo Plus"
+    },
+    {
+      "href": "https://www.yahoo.com/everything/",
+      "text": "More..."
+    },
+    {
+      "href": "https://www.yahoo.com/#Main",
+      "text": "Skip to main content"
+    },
+    {
+      "href": "https://www.yahoo.com/#Aside",
+      "text": "Skip to sidebar"
+    },
+    {
+      "href": "https://www.yahoo.com/news/surprise-reversal-biden-rewrites-legacy-175253739.html",
+      "text": "With surprise reversal, Biden makes a play for historyLong concerned about his \"epitaph,\" the president reluctantly surrendered his bid for a second term. Dems argue his willingness to give up power may enhance his role in posterity.\n\n\nThe election results will determine it »"
+    },
+    {
+      "href": "https://www.yahoo.com/news/harris-looks-lock-democratic-nomination-041637515.html",
+      "text": "Harris secures enough delegates to become Democratic nominee"
+    },
+    {
+      "href": "https://www.yahoo.com/news/not-just-smoking-heres-causes-090126684.html",
+      "text": "These symptoms are the first common signs of lung cancer"
+    },
+    {
+      "href": "https://www.yahoo.com/sports/diver-tom-daley-shows-off-214313572.html",
+      "text": "Diver Tom Daley offers inside look at Olympic Village cardboard beds"
+    },
+    {
+      "href": "https://www.yahoo.com/finance/news/higher-tax-rates-smaller-child-130101990.html",
+      "text": "Tax experts warn that you need to prepare for changes coming in 2026"
+    },
+    {
+      "href": "https://www.yahoo.com/news/magical-self-portrait-hidden-decades-194524640.html",
+      "text": "'Magical' self-portrait was hidden for decades — until the canvas was flipped"
+    },
+    {
+      "href": "https://www.yahoo.com/sports/tiger-woods-watches-15-old-185837167.html",
+      "text": ""
+    },
+    {
+      "href": "https://www.yahoo.com/sports/tiger-woods-watches-15-old-185837167.html",
+      "text": "Tiger Woods watches 15-year-old son Charlie shoot a 12-over 82 in US Junior Amateur at Oakland Hills"
+    },
+    {
+      "href": "https://tracking.trdunicorn-online.com/f5aa6de3-9d2c-4f6c-8a00-d126b3557977",
+      "text": "CPX"
+    },
+    {
+      "href": "https://tracking.trdunicorn-online.com/f5aa6de3-9d2c-4f6c-8a00-d126b3557977",
+      "text": "CPX·AdAdBorn between 1956 and 1996? You can get a potential second income!"
+    },
+    {
+      "href": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-2:",
+      "text": "Ad"
+    },
+    {
+      "href": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-2:",
+      "text": "Ad"
+    },
+    {
+      "href": "https://popup.taboola.com/en/",
+      "text": "Why this ad?"
+    },
+    {
+      "href": "https://www.yahoo.com/plus/mail?ncid=mbr_ympacqlnk00000003",
+      "text": "Go ad-free*"
+    },
+    {
+      "href": "https://www.yahoo.com/news/u-olympic-committee-hits-logan-214454914.html",
+      "text": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/u-olympic-committee-hits-logan-214454914.html",
+      "text": "U.S. Olympic Committee hits Logan Paul's drink brand with trademark infringement suit"
+    },
+    {
+      "href": "https://www.yahoo.com/news/musk-says-trans-child-figuratively-004959254.html",
+      "text": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/musk-says-trans-child-figuratively-004959254.html",
+      "text": "Musk says trans child was figuratively 'killed by the woke mind virus,' vows to destroy it: 'My son is dead'"
+    },
+    {
+      "href": "https://www.yahoo.com/news/abuser-today-miss-kansas-opened-172626606.html",
+      "text": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/abuser-today-miss-kansas-opened-172626606.html",
+      "text": "'My abuser is here today': New Miss Kansas opened up about toxic relationship onstage before being crowned"
+    },
+    {
+      "href": "https://www.yahoo.com/news/history-buff-bought-piece-tent-105800427.html",
+      "text": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/history-buff-bought-piece-tent-105800427.html",
+      "text": "A history buff bought a piece of a tent from Goodwill for $1,700. It really did belong to George Washington"
+    },
+    {
+      "href": "https://homegears.in/pages/india-why-is-everyone-excited-over-this-eco-friendly-mosquito-killer-device",
+      "text": "Eco-Friendly Mosquito Killer"
+    },
+    {
+      "href": "https://homegears.in/pages/india-why-is-everyone-excited-over-this-eco-friendly-mosquito-killer-device",
+      "text": "Eco-Friendly Mosquito Killer·AdAdEvery Indian Household Should Have This Amazing Mosquito Killer Racket100% Chemical Free Operation. No Chemicals or Harmful Sprays Needed."
+    },
+    {
+      "href": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-7:",
+      "text": "Ad"
+    },
+    {
+      "href": "https://popup.taboola.com/en/?template=colorbox&utm_source=yahoo-home&utm_medium=referral&utm_content=stream-d:taboola-stream-7:",
+      "text": "Ad"
+    },
+    {
+      "href": "https://popup.taboola.com/en/",
+      "text": "Why this ad?"
+    },
+    {
+      "href": "https://www.yahoo.com/plus/mail?ncid=mbr_ympacqlnk00000003",
+      "text": "Go ad-free*"
+    },
+    {
+      "href": "https://www.yahoo.com/news/woman-died-begged-gp-help-191900414.html",
+      "text": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/woman-died-begged-gp-help-191900414.html",
+      "text": "Woman who died from ME begged GP for help after hospital ‘did nothing’"
+    },
+    {
+      "href": "https://www.yahoo.com/finance/news/irs-finalizes-10-rule-retirement-193341910.html",
+      "text": ""
+    },
+    {
+      "href": "https://www.yahoo.com/finance/news/irs-finalizes-10-rule-retirement-193341910.html",
+      "text": "IRS Finalizes 10-Year Rule For Retirement Withdrawals, Making Things 'Even More Insanely Complicated'"
+    },
+    {
+      "href": "https://www.yahoo.com/",
+      "text": "Refresh Page"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=Donald+Trump&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "1.Donald Trump"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=The+Bachelorette+Spoilers&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "2.The Bachelorette Spoilers"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=Los+Angeles+Dodgers&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "3.Los Angeles Dodgers"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=USA++vs.+Germany+Basketball&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "4.USA  vs. Germany Basketball"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=Secret+Service+Hearing&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "5.Secret Service Hearing"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=Prince+Harry&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "6.Prince Harry"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=Sonya+Massey&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "7.Sonya Massey"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=Bangladesh&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "8.Bangladesh"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=House+of+the+Dragon&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "9.House of the Dragon"
+    },
+    {
+      "href": "https://search.yahoo.com/search?p=Pagasa+Weather+Forecast&fr=fp-tts&fr2=p:fp,m:tn,ct:all,kt:org,pg:1,stl:txt,b:",
+      "text": "10.Pagasa Weather Forecast"
+    }
+  ],
+  "imageCount": 15,
+  "linkCount": 380
+}
